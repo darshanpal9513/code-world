@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+    float income;
+    printf("enter your income\n");
+    scanf("%f" ,&income);
+    
+}
